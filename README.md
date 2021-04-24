@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Buddhin Saroj
+
+🌱 Softaware Engineering undergraduate
+📫 How to reach me: [ Linkedin](https://www.linkedin.com/in/buddhin-saroj-a50322197/)
+
 <!--
 **BuddhinSaroj/BuddhinSaroj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
