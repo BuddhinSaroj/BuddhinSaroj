@@ -23,4 +23,4 @@
 ![My Skills](https://skillicons.dev/icons?i=java,js,py,androidstudio,angular,aws,bash,bootstrap,css,dart,discord,docker,eclipse,figma,firebase,flask,flutter,git,githubactions,gcp,gradle,html,idea,jquery,kubernetes,linux,materialui,mongodb,mysql,nodejs,ps,php,spring,sqlite,tensorflow,vim,vscode,wordpress,xd)
 
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athindu&theme=dark" alt="athindu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BuddhinSaroj&theme=dark" alt="BuddhinSaroj" /></p>
